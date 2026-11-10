@@ -64,3 +64,4 @@ onnxruntime
 pandas
 pillow
 numpy
+opencv-python-headless
